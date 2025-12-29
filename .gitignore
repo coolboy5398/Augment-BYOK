@@ -1,3 +1,4 @@
 .ace-tool/
 .vscode
 node_modules/
+*.vsix
